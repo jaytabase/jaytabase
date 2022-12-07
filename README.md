@@ -1,3 +1,8 @@
-# Hello, I'm Jay
+# Hello 👋🏼 I'm Judah
 
-I'm learning the <img style="float: right;" src="https://img.shields.io/static/v1?label=&message=Laravel&color=F05138&logo=laravel&logoColor=FFFFFF"> framework!
+Noob developer looking to spelialise in web technologies
+
+![Laravel](https://img.shields.io/static/v1?style=flat&label=&message=Laravel&color=F05340&logo=laravel&logoColor=FFFFFF)
+![PHP](https://img.shields.io/static/v1?style=flat&label=&message=PHP&color=777BB3&logo=php&logoColor=FFFFFF)
+![JS](https://img.shields.io/static/v1?style=flat&label=&message=JavaScript&color=F0DB4F&logo=javascript&logoColor=323330)
+

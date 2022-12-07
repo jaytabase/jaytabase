@@ -1,6 +1,6 @@
 # Hello 👋🏼 I'm Judah
 
-I type stuff on my keyboard and real life problems are solved
+I type stuff on my keyboard and real life problems get solved
 
 #### Wet toes zone
 ![](https://img.shields.io/static/v1?style=flat&label=&message=HTML&color=dd4b25&logo=html5&logoColor=FFFFFF)

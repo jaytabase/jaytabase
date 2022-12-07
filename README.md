@@ -1,6 +1,6 @@
 # Hello 👋🏼 I'm Judah
 
-Noob developer looking to spelialise in web technologies
+I type stuff on my keyboard and real life problems are solved
 
 #### Wet toes zone
 ![](https://img.shields.io/static/v1?style=flat&label=&message=HTML&color=dd4b25&logo=html5&logoColor=FFFFFF)
@@ -10,3 +10,5 @@ Noob developer looking to spelialise in web technologies
 ![](https://img.shields.io/static/v1?style=flat&label=&message=Laravel&color=F05340&logo=laravel&logoColor=FFFFFF)
 ![](https://img.shields.io/static/v1?style=flat&label=&message=AssemblyScript&color=007ACC&logo=assemblyscript&logoColor=FFFFFF)
 ![](https://img.shields.io/static/v1?style=flat&label=&message=WebAssembly&color=654ff0&logo=webassembly&logoColor=FFFFFF)
+![](https://img.shields.io/static/v1?style=flat&label=&message=AHK%20Scripting&color=57c054&logo=autohotkey&logoColor=FFFFFF)
+![](https://img.shields.io/static/v1?style=flat&label=&message=Liquid&color=94bd47&logo=shopify&logoColor=FFFFFF)

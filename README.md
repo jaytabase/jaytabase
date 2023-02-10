@@ -1,4 +1,4 @@
-# Hello 👋🏼 I'm Judah
+# Hello 👋🏼 I'm Jay
 
 I type stuff on my keyboard and real life problems get solved
 
